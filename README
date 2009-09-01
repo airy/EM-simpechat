@@ -1,0 +1,15 @@
+This is very simple client/server chat application.
+
+requirements:
+1. eventmachine
+
+usage:
+1. server: run command "server.rb"
+2. client: run command "client.rb username password"
+
+todo:
+1. authentication method will be added.
+2. host/port parameters will be added.
+
+author:
+airydragon(at)gmail.com
